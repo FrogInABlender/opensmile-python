@@ -8,6 +8,7 @@ package_data = {
         'core/bin/win/*',
         'core/config/shared/*',
         'core/config/compare/*',
+        'core/config/emobase/*',
         'core/config/gemaps/v01a/*',
         'core/config/gemaps/v01b/*',
         'core/config/egemaps/v01a/*',
